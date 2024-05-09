@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calcuradoraRanked", "calcuradoraRanked\calcuradoraRanked.csproj", "{26280689-19B4-4BCC-B669-1917D321AFEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26280689-19B4-4BCC-B669-1917D321AFEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26280689-19B4-4BCC-B669-1917D321AFEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26280689-19B4-4BCC-B669-1917D321AFEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26280689-19B4-4BCC-B669-1917D321AFEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0082779F-41E3-4541-86A7-50E13D69D297}
+	EndGlobalSection
+EndGlobal

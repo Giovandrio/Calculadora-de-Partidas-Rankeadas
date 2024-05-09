@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Mis Documentos\\Programaci\u00F3n\\dio-git-e-github\\JavaScript\\Desafio 2 - Calculadora de partidas Rankeadas\\CodigoC#\\calcuradoraRanked\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26280689-19B4-4BCC-B669-1917D321AFEE}|calcuradoraRanked\\calcuradoraRanked.csproj|d:\\mis documentos\\programaci\u00F3n\\dio-git-e-github\\javascript\\desafio 2 - calculadora de partidas rankeadas\\codigoc#\\calcuradoraranked\\calcuradoraranked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26280689-19B4-4BCC-B669-1917D321AFEE}|calcuradoraRanked\\calcuradoraRanked.csproj|solutionrelative:calcuradoraranked\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Mis Documentos\\Programaci\u00F3n\\dio-git-e-github\\JavaScript\\Desafio 2 - Calculadora de partidas Rankeadas\\CodigoC#\\calcuradoraRanked\\calcuradoraRanked\\Program.cs",
+              "RelativeDocumentMoniker": "calcuradoraRanked\\Program.cs",
+              "ToolTip": "D:\\Mis Documentos\\Programaci\u00F3n\\dio-git-e-github\\JavaScript\\Desafio 2 - Calculadora de partidas Rankeadas\\CodigoC#\\calcuradoraRanked\\calcuradoraRanked\\Program.cs",
+              "RelativeToolTip": "calcuradoraRanked\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:53:37.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
